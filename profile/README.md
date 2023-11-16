@@ -1,5 +1,4 @@
-# Cancer Ecology & Evolution Lab
-## Stony Brook Cancer Center
+# CEEL: Cancer Ecology & Evolution Lab
 ![My Image](CEEL_Logo.png)
 
 <!--
