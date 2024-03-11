@@ -3,6 +3,7 @@
 
 ## People
 ### Principal Investigator: Mehdi Damaghi, Ph.D.
+![Mehdi](150x225_DamaghiMehdi.jpg)
 
 ### Lab memebers
 Jowana Obeid
