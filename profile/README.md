@@ -1,6 +1,23 @@
 # CEEL: Cancer Ecology & Evolution Lab
 ![My Image](CEEL_Logo.png)
 
+## People
+### Principal Investigator: Mehdi Damaghi, Ph.D.
+
+### Lab memebers
+Jowana Obeid
+
+Joon-Hyun Song
+
+
+## Publications
+### Key papers
+
+### Peer-reviewed
+
+### Preprints
+[Song, J. H., Dávalos, L. M., MacCarthy, T., & Damaghi, M. (2023). Evolvability of cancer-associated genes under APOBEC3A/B selection. bioRxiv, 2023-08. doi: https://doi.org/10.1101/2023.08.27.554991](https://www.biorxiv.org/content/10.1101/2023.08.27.554991v2.abstract)
+
 <!--
 
 **Here are some ideas to get you started:**
