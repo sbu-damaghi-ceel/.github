@@ -11,6 +11,8 @@ Khadijeh Karbalaei, Ph.D.
 Manal Elmasry, Ph.D.
 
 ### Graduate researchers
+**Ph.D.**
+
 Jowana Obeid
 
 Joon-Hyun Song
@@ -18,6 +20,8 @@ Joon-Hyun Song
 Yujie Xiao
 
 Justin Clarke
+
+**Master's**
 
 Kevin Vera
 
