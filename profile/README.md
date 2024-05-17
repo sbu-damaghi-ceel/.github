@@ -47,8 +47,8 @@ Naheel Khatri
 ### Alumni
 | Name | Position | Current Position |
 | ------------- | ------------- | ------------- |
-| Andrew Young | PhD Rotation student  | |
-| Emmanuel Woods | PhD Rotation student  | |
+| Andrew Young | Undergraduate student  | |
+| Emmanuel Woods | Undergraduate student  | |
 | Fatim Kouassi | Master student  | |
 | Julia | PhD Rotation student  | |
 | Monica  | PhD Rotation student  | |
