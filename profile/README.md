@@ -5,10 +5,42 @@
 ### Principal Investigator: Mehdi Damaghi, Ph.D.
 ![Mehdi](150x225_DamaghiMehdi.jpg)
 
-### Lab memebers
+### Post Doc
+Khadijeh Karbalaei
+
+Manal Elmasry
+
+### Graduate students
 Jowana Obeid
 
 Joon-Hyun Song
+
+Yujie Xiao
+
+Justin Clarke
+
+Kevin Vera
+
+Chaeeun Shin
+
+### Research assistant
+Raafat Chalar
+
+### Undergraduate students
+Andrew Chen
+
+Ghaleb Jubi
+
+Saiful Samad
+
+Soraya Rahni
+
+Susoma Halder
+
+### Rotation student
+
+
+### Alumni
 
 
 ## Publications
