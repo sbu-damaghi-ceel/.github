@@ -6,9 +6,9 @@
 ![Mehdi](150x225_DamaghiMehdi.jpg)
 
 ### Post Doc
-Khadijeh Karbalaei
+Khadijeh Karbalaei, Ph.D.
 
-Manal Elmasry
+Manal Elmasry, Ph.D.
 
 ### Graduate researchers
 Jowana Obeid
