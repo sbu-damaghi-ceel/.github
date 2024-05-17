@@ -121,7 +121,7 @@ Naheel Khatri
 
 [Persi, E., Duran-Frigola, M., Damaghi, M., Roush, W. R., Aloy, P., Cleveland, J. L., ... & Ruppin, E. (2018). Systems analysis of intracellular pH vulnerabilities for cancer therapy. Nature communications, 9(1), 2997.]()
 
-**~ 2017**
+**-2017**
 
 [Damaghi, M., & Gillies, R. (2017). Phenotypic changes of acid-adapted cancer cells push them toward aggressiveness in their evolution in the tumor microenvironment. Cell Cycle, 16(19), 1739-1743.]()
 
