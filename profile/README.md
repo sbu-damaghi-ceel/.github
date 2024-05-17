@@ -11,7 +11,7 @@ Khadijeh Karbalaei, Ph.D.
 Manal Elmasry, Ph.D.
 
 ### Graduate researchers
-**Ph.D.**
+**Ph.D. Students**
 
 Jowana Obeid
 
@@ -21,7 +21,7 @@ Yujie Xiao
 
 Justin Clarke
 
-**Master's**
+**Master's Students**
 
 Kevin Vera
 
