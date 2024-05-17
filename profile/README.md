@@ -62,10 +62,17 @@ Naheel Khatri
 ## Publications
 ### Key papers
 
+
 ### Peer-reviewed
+[Song, J. H., Dávalos, L. M., MacCarthy, T., & Damaghi, M. (2024). Evolvability of cancer-associated genes under APOBEC3A/B selection. Iscience, 27(4).]()
+[Poonja, S., Forero Pinto, A., Lloyd, M. C., Damaghi, M., & Rejniak, K. A. (2023). Dynamics of fibril collagen remodeling by tumor cells: A model of tumor-associated collagen signatures. Cells, 12(23), 2688.]()
+[Kimmel, G. J., West, J., Damaghi, M., Anderson, A. R., & Altrock, P. M. (2021). Local contact inhibition leads to universal principles of cell population growth. arXiv preprint arXiv:2108.10000.]()
+[Jalili, M., Scharm, M., Wolkenhauer, O., Damaghi, M., & Salehzadeh-Yazdi, A. (2021). Exploring the metabolic heterogeneity of cancers: A benchmark study of context-specific models. Journal of Personalized Medicine, 11(6), 496.]()
+
 
 ### Preprints
-[Song, J. H., Dávalos, L. M., MacCarthy, T., & Damaghi, M. (2023). Evolvability of cancer-associated genes under APOBEC3A/B selection. bioRxiv, 2023-08. doi: https://doi.org/10.1101/2023.08.27.554991](https://www.biorxiv.org/content/10.1101/2023.08.27.554991v2.abstract)
+[Strobl, M., Martin, A. L., West, J., Gallaher, J., Robertson-Tessi, M., Gatenby, R., ... & Anderson, A. (2023). Adaptive therapy for ovarian cancer: An integrated approach to PARP inhibitor scheduling. bioRxiv.]()
+
 
 <!--
 
