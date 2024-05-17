@@ -10,7 +10,7 @@ Khadijeh Karbalaei
 
 Manal Elmasry
 
-### Graduate students
+### Graduate researchers
 Jowana Obeid
 
 Joon-Hyun Song
@@ -26,7 +26,7 @@ Chaeeun Shin
 ### Research assistant
 Raafat Chalar
 
-### Undergraduate students
+### Undergraduate researchers
 Andrew Chen
 
 Ghaleb Jubi
@@ -37,10 +37,26 @@ Soraya Rahni
 
 Susoma Halder
 
-### Rotation student
+Katy Chen
+
+### Rotation students
+Naheel Khatri
+
 
 
 ### Alumni
+| Name | Position | Current Position |
+| ------------- | ------------- | ------------- |
+| Andrew Young | PhD Rotation student  | |
+| Emmanuel Woods | PhD Rotation student  | |
+| Fatim Kouassi | Master student  | |
+| Julia | PhD Rotation student  | |
+| Monica  | PhD Rotation student  | |
+| Yijie Kang  | PhD Rotation student  | |
+| Andrew Cheng | PhD Rotation student  | |
+| Liam Shanley | PhD Rotation student  | | 
+| Scott Feltman | PhD Rotation student  | |
+| Ozge Somuncu  | Post Doc  | |
 
 
 ## Publications
