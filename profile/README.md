@@ -81,6 +81,13 @@ Naheel Khatri
 [Wu, H., Estrella, V., Beatty, M., Abrahams, D., El-Kenawi, A., Russell, S., ... & Gillies, R. J. (2020). T-cells produce acidic niches in lymph nodes to suppress their own effector functions. Nature communications, 11(1), 4113.]()
 [Sarhadi, S., Salehzadeh-Yazdi, A., Damaghi, M., Zarghami, N., Wolkenhauer, O., & Hosseini, H. (2020). Omics integration analyses reveal the early evolution of malignancy in breast cancer. Cancers, 12(6), 1460.]()
 [Ordway, B., Swietach, P., Gillies, R. J., & Damaghi, M. (2020). Causes and consequences of variable tumor cell metabolism on heritable modifications and tumor evolution. Frontiers in Oncology, 10, 373.]()
+[Sadeghi, M., Ordway, B., Rafiei, I., Borad, P., Fang, B., Koomen, J. L., ... & Damaghi, M. (2020). Integrative analysis of breast cancer cells reveals an epithelial-mesenchymal transition role in adaptation to acidic microenvironment. Frontiers in oncology, 10, 304.]()
+[Strobl, M. A., Krause, A. L., Damaghi, M., Gillies, R., Anderson, A. R., & Maini, P. K. (2020). Mix and match: phenotypic coexistence as a key facilitator of cancer invasion. Bulletin of Mathematical Biology, 82, 1-26.]()
+[Pillai, S. R., Damaghi, M., Marunaka, Y., Spugnini, E. P., Fais, S., & Gillies, R. J. (2019). Causes, consequences, and therapy of tumors acidosis. Cancer and Metastasis Reviews, 38, 205-222.]()
+[Swietach, P., Wu, H., Estrella, V., Enriquez‐Navas, P., Abrahams, D., Ibrahim‐Hashim, A., ... & Gillies, R. J. (2019). Lymph nodes harbor compartments of substantial acidity. The FASEB Journal, 33(S1), 544-21.]()
+[Wu, H., Estrella, V., Enriquez‐Navas, P., Abrahams, D., Ibrahim‐Hashim, A., Luddy, K., ... & Gillies, R. (2019). Acidity suppresses T cell function and increases memory T cell development. The FASEB Journal, 33(S1), lb596-lb596.]()
+[Persi, E., Duran-Frigola, M., Damaghi, M., Roush, W. R., Aloy, P., Cleveland, J. L., ... & Ruppin, E. (2018). Systems analysis of intracellular pH vulnerabilities for cancer therapy. Nature communications, 9(1), 2997.]()
+[Damaghi, M., & Gillies, R. (2017). Phenotypic changes of acid-adapted cancer cells push them toward aggressiveness in their evolution in the tumor microenvironment. Cell Cycle, 16(19), 1739-1743.]()
 
 ### Preprints
 [Strobl, M., Martin, A. L., West, J., Gallaher, J., Robertson-Tessi, M., Gatenby, R., ... & Anderson, A. (2023). Adaptive therapy for ovarian cancer: An integrated approach to PARP inhibitor scheduling. bioRxiv.]()
