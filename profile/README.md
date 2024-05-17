@@ -56,7 +56,7 @@ Naheel Khatri
 | Monica Alexander | PhD Rotation student  | |
 | Yijie Kang  | PhD Rotation student  | |
 | Andrew Cheng | PhD Rotation student  | |
-| Luis | PhD Rotation student  | |
+| Luiz Alberti | PhD Rotation student  | |
 | Liam Shanley | PhD Rotation student  | | 
 | Scott Feltman | PhD Rotation student  | |
 | Ozge Somuncu  | Post Doc  | |
