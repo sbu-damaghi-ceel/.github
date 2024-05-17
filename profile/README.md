@@ -49,8 +49,6 @@ Naheel Khatri
 ### Alumni
 | Name | Position | Current Position |
 | ------------- | ------------- | ------------- |
-| Andrew Young | Undergraduate student  | |
-| Emmanuel Woods | Undergraduate student  | |
 | Fatim Kouassi | Master student  | |
 | Julia Gattozzi | PhD Rotation student  | |
 | Monica Alexander | PhD Rotation student  | |
@@ -59,6 +57,8 @@ Naheel Khatri
 | Luiz Alberti | PhD Rotation student  | |
 | Liam Shanley | PhD Rotation student  | | 
 | Scott Feltman | PhD Rotation student  | |
+| Andrew Young | Undergraduate student  | |
+| Emmanuel Woods | Undergraduate student  | |
 | Ozge Somuncu  | Post Doc  | |
 
 
