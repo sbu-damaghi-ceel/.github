@@ -37,12 +37,10 @@ Soraya Rahni
 
 Susoma Halder
 
-Katy Chen
+Katy (Yuzhu) Chen
 
 ### Rotation students
 Naheel Khatri
-
-
 
 ### Alumni
 | Name | Position | Current Position |
@@ -50,8 +48,8 @@ Naheel Khatri
 | Andrew Young | Undergraduate student  | |
 | Emmanuel Woods | Undergraduate student  | |
 | Fatim Kouassi | Master student  | |
-| Julia | PhD Rotation student  | |
-| Monica  | PhD Rotation student  | |
+| Julia Gattozzi | PhD Rotation student  | |
+| Monica Alexander | PhD Rotation student  | |
 | Yijie Kang  | PhD Rotation student  | |
 | Andrew Cheng | PhD Rotation student  | |
 | Luis | PhD Rotation student  | |
