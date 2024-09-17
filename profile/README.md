@@ -3,12 +3,9 @@
 
 ## People
 ### Principal Investigator: Mehdi Damaghi, Ph.D.
-![Mehdi](150x225_DamaghiMehdi.jpg)
+![Mehdi](DamaghiMehdi.jpg)
 
 ### Post Doc
-Khadijeh Karbalaei, Ph.D.
-
-Manal Elmasry, Ph.D.
 
 ### Graduate researchers
 **Ph.D. Students**
@@ -21,11 +18,11 @@ Yujie Xiao
 
 Justin Clarke
 
+Naheel Khatri
+
 **Master's Students**
 
 Kevin Vera
-
-Chaeeun Shin
 
 ### Research assistant
 Raafat Chalar
@@ -33,18 +30,15 @@ Raafat Chalar
 ### Undergraduate researchers
 Andrew Chen
 
-Ghaleb Jubi
-
 Saiful Samad
 
 Soraya Rahni
 
 Susoma Halder
 
-Katy (Yuzhu) Chen
-
 ### Rotation students
-Naheel Khatri
+
+Zhiyi Dong
 
 ### Alumni
 | Name | Position | Current Position |
@@ -57,9 +51,16 @@ Naheel Khatri
 | Luiz Alberti | PhD Rotation student  | |
 | Liam Shanley | PhD Rotation student  | | 
 | Scott Feltman | PhD Rotation student  | |
+| Grace Han | MD student  | |
+| Jabin Gong | MD student  | |
 | Andrew Young | Undergraduate student  | |
 | Emmanuel Woods | Undergraduate student  | |
-| Ozge Somuncu  | Post Doc  | |
+| Katy (Yuzhu) Chen | Undergraduate student  | |
+| Ghaleb Jubi | Undergraduate student  | |
+| Ozge Somuncu, Ph.D. | Post Doc  | |
+| Khadijeh Karbalaei, Ph.D.  | Post Doc  | |
+| Manal Elmasry, Ph.D.  | Post Doc  | |
+
 
 
 ## Publications
