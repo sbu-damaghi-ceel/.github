@@ -20,29 +20,45 @@ Justin Clarke
 
 Naheel Khatri
 
+Sogol Ghanbari
+
+Emma Downey
+
 **Master's Students**
 
 Kevin Vera
 
-### Research assistant
-Raafat Chalar
+Devin Marcheselli
+
+Venkata Narayana Redrouthu
 
 ### Undergraduate researchers
-Andrew Chen
-
 Saiful Samad
 
 Soraya Rahni
 
 Susoma Halder
 
+Arham Akhyer
+
+Jack Yang
+
 ### Rotation students
 
 Zhiyi Dong
 
+Shreya Madan
+
+Minxin Huang
+
+### Visiting scholar
+Karla Torres Arciga
+
 ### Alumni
 | Name | Position | Current Position |
 | ------------- | ------------- | ------------- |
+| Raafat Chalar | MS Research assistnat |  MD.PhD at the University of Michigan |
+| Andrew Chen | Undergraduate student | |
 | Fatim Kouassi | Master student  | |
 | Julia Gattozzi | PhD Rotation student  | |
 | Monica Alexander | PhD Rotation student  | |
