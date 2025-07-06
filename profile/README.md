@@ -62,6 +62,7 @@ Karla Torres Arciga
 | Fatim Kouassi | Master student  | |
 | Julia Gattozzi | PhD Rotation student  | |
 | Monica Alexander | PhD Rotation student  | |
+| Abigail Booth             | PhD Rotation student  |                  |
 | Yijie Kang  | PhD Rotation student  | |
 | Andrew Cheng | PhD Rotation student  | |
 | Luiz Alberti | PhD Rotation student  | |
